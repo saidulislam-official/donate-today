@@ -38,3 +38,47 @@
 .banner button {
   margin-top: 20px;
 }
+/* main section donate-today part */
+.donate-money-tilte {
+  margin-top: 130px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 46px;
+  font-weight: 700;
+}
+.donate-money-description {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.donate-money-button {
+  text-align: center;
+}
+.buttonall {
+  padding: 40px 30px;
+  margin-left: 10px;
+  font-size: 36px;
+  font-weight: 800;
+  border-radius: 4px;
+  background-color: #c9c1c188;
+  /* margin-bottom: 50px; */
+  border: 1px;
+}
+
+.donate-money-button p {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(171, 172, 167);
+}
+.donate-money hr {
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 10px;
+}
+
+.donate-money {
+  text-align: center;
+}
+.donate-money button {
+  margin-top: 50px;
+  margin-bottom: 130px;
+}
